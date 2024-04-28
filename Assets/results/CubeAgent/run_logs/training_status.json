@@ -1,0 +1,47 @@
+{
+    "jumper": {
+        "checkpoints": [
+            {
+                "steps": 499970,
+                "file_path": "results/CubeAgent/jumper/jumper-499970.onnx",
+                "reward": 0.6374999831120173,
+                "creation_time": 1714322357.040246,
+                "auxillary_file_paths": [
+                    "results/CubeAgent/jumper/jumper-499970.pt"
+                ]
+            },
+            {
+                "steps": 999950,
+                "file_path": "results/CubeAgent/jumper/jumper-999950.onnx",
+                "reward": 1.899999976158142,
+                "creation_time": 1714325338.3144808,
+                "auxillary_file_paths": [
+                    "results/CubeAgent/jumper/jumper-999950.pt"
+                ]
+            },
+            {
+                "steps": 1377221,
+                "file_path": "results/CubeAgent/jumper/jumper-1377221.onnx",
+                "reward": 1.899999976158142,
+                "creation_time": 1714327681.757049,
+                "auxillary_file_paths": [
+                    "results/CubeAgent/jumper/jumper-1377221.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1377221,
+            "file_path": "results/CubeAgent/jumper.onnx",
+            "reward": 1.899999976158142,
+            "creation_time": 1714327681.757049,
+            "auxillary_file_paths": [
+                "results/CubeAgent/jumper/jumper-1377221.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.3.0"
+    }
+}
